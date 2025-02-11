@@ -6202,7 +6202,7 @@ PrefabInstance:
       objectReference: {fileID: 457201100}
     - target: {fileID: 1679518838212559247, guid: 7d7db1522ea264a50b02f09f6143d035, type: 3}
       propertyPath: mapOrMapsetCode
-      value: 
+      value: MAP_Z81YBHO447CO
       objectReference: {fileID: 0}
     - target: {fileID: 1679518838212559247, guid: 7d7db1522ea264a50b02f09f6143d035, type: 3}
       propertyPath: localizationType
@@ -6225,14 +6225,6 @@ PrefabInstance:
       value: 
       objectReference: {fileID: 1849515172}
     - target: {fileID: 1679518838212559247, guid: 7d7db1522ea264a50b02f09f6143d035, type: 3}
-      propertyPath: LocalizationFailure.m_PersistentCalls.m_Calls.Array.data[2].m_Mode
-      value: 1
-      objectReference: {fileID: 0}
-    - target: {fileID: 1679518838212559247, guid: 7d7db1522ea264a50b02f09f6143d035, type: 3}
-      propertyPath: LocalizationSuccess.m_PersistentCalls.m_Calls.Array.data[3].m_Mode
-      value: 1
-      objectReference: {fileID: 0}
-    - target: {fileID: 1679518838212559247, guid: 7d7db1522ea264a50b02f09f6143d035, type: 3}
       propertyPath: LocalizationFailure.m_PersistentCalls.m_Calls.Array.data[0].m_Target
       value: 
       objectReference: {fileID: 919867798}
@@ -6241,10 +6233,6 @@ PrefabInstance:
       value: 
       objectReference: {fileID: 1849515172}
     - target: {fileID: 1679518838212559247, guid: 7d7db1522ea264a50b02f09f6143d035, type: 3}
-      propertyPath: LocalizationFailure.m_PersistentCalls.m_Calls.Array.data[2].m_Target
-      value: 
-      objectReference: {fileID: 0}
-    - target: {fileID: 1679518838212559247, guid: 7d7db1522ea264a50b02f09f6143d035, type: 3}
       propertyPath: LocalizationSuccess.m_PersistentCalls.m_Calls.Array.data[0].m_Target
       value: 
       objectReference: {fileID: 919867798}
@@ -6252,46 +6240,6 @@ PrefabInstance:
       propertyPath: LocalizationSuccess.m_PersistentCalls.m_Calls.Array.data[1].m_Target
       value: 
       objectReference: {fileID: 1849515172}
-    - target: {fileID: 1679518838212559247, guid: 7d7db1522ea264a50b02f09f6143d035, type: 3}
-      propertyPath: LocalizationSuccess.m_PersistentCalls.m_Calls.Array.data[3].m_Target
-      value: 
-      objectReference: {fileID: 0}
-    - target: {fileID: 1679518838212559247, guid: 7d7db1522ea264a50b02f09f6143d035, type: 3}
-      propertyPath: LocalizationFailure.m_PersistentCalls.m_Calls.Array.data[2].m_CallState
-      value: 2
-      objectReference: {fileID: 0}
-    - target: {fileID: 1679518838212559247, guid: 7d7db1522ea264a50b02f09f6143d035, type: 3}
-      propertyPath: LocalizationSuccess.m_PersistentCalls.m_Calls.Array.data[3].m_CallState
-      value: 2
-      objectReference: {fileID: 0}
-    - target: {fileID: 1679518838212559247, guid: 7d7db1522ea264a50b02f09f6143d035, type: 3}
-      propertyPath: LocalizationFailure.m_PersistentCalls.m_Calls.Array.data[2].m_MethodName
-      value: OnPositionLost
-      objectReference: {fileID: 0}
-    - target: {fileID: 1679518838212559247, guid: 7d7db1522ea264a50b02f09f6143d035, type: 3}
-      propertyPath: LocalizationSuccess.m_PersistentCalls.m_Calls.Array.data[3].m_MethodName
-      value: OnPositionFound
-      objectReference: {fileID: 0}
-    - target: {fileID: 1679518838212559247, guid: 7d7db1522ea264a50b02f09f6143d035, type: 3}
-      propertyPath: LocalizationFailure.m_PersistentCalls.m_Calls.Array.data[2].m_TargetAssemblyTypeName
-      value: ARStateController, Assembly-CSharp
-      objectReference: {fileID: 0}
-    - target: {fileID: 1679518838212559247, guid: 7d7db1522ea264a50b02f09f6143d035, type: 3}
-      propertyPath: LocalizationSuccess.m_PersistentCalls.m_Calls.Array.data[3].m_TargetAssemblyTypeName
-      value: ARStateController, Assembly-CSharp
-      objectReference: {fileID: 0}
-    - target: {fileID: 1679518838212559247, guid: 7d7db1522ea264a50b02f09f6143d035, type: 3}
-      propertyPath: LocalizationFailure.m_PersistentCalls.m_Calls.Array.data[2].m_Arguments.m_BoolArgument
-      value: 1
-      objectReference: {fileID: 0}
-    - target: {fileID: 1679518838212559247, guid: 7d7db1522ea264a50b02f09f6143d035, type: 3}
-      propertyPath: LocalizationFailure.m_PersistentCalls.m_Calls.Array.data[2].m_Arguments.m_ObjectArgumentAssemblyTypeName
-      value: UnityEngine.Object, UnityEngine
-      objectReference: {fileID: 0}
-    - target: {fileID: 1679518838212559247, guid: 7d7db1522ea264a50b02f09f6143d035, type: 3}
-      propertyPath: LocalizationSuccess.m_PersistentCalls.m_Calls.Array.data[3].m_Arguments.m_ObjectArgumentAssemblyTypeName
-      value: UnityEngine.Object, UnityEngine
-      objectReference: {fileID: 0}
     - target: {fileID: 6479552010603474580, guid: 7d7db1522ea264a50b02f09f6143d035, type: 3}
       propertyPath: m_LocalPosition.x
       value: 0
@@ -6334,6 +6282,18 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 7795268846197145925, guid: 7d7db1522ea264a50b02f09f6143d035, type: 3}
       propertyPath: meshVisualizationOption
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 8221313558765561689, guid: 7d7db1522ea264a50b02f09f6143d035, type: 3}
+      propertyPath: clientId
+      value: c7722933-a6b4-4433-b2fa-33ca53b02d8e
+      objectReference: {fileID: 0}
+    - target: {fileID: 8221313558765561689, guid: 7d7db1522ea264a50b02f09f6143d035, type: 3}
+      propertyPath: clientSecret
+      value: 7912432ef504dbf6abd71ca1af09ef3136c7bf219dc6b1991b
+      objectReference: {fileID: 0}
+    - target: {fileID: 8221313558765561689, guid: 7d7db1522ea264a50b02f09f6143d035, type: 3}
+      propertyPath: runtimeAuthentication
       value: 1
       objectReference: {fileID: 0}
     m_RemovedComponents: []
